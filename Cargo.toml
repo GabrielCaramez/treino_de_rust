@@ -1,0 +1,7 @@
+package]
+name = "variables"
+version = "2.3.4"
+authors = ["Gabriel Caramez <caramezgabriel72@gmail.com>"]
+edition = "2021"
+
+[dependencies]
